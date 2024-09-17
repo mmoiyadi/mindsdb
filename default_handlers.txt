@@ -20,4 +20,3 @@ web
 langchain            # For agents & completions
 sema4
 pgvector
-confluence

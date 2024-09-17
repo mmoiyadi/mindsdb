@@ -18,3 +18,4 @@ twitter
 minds_endpoint
 web
 langchain            # For agents & completions
+sema4

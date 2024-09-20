@@ -31,7 +31,7 @@
 
 ## 📖 About us
 
-MindsDB is the platform for building AI from enterprise data.
+MindsDB is a platform for building AI from enterprise data.
 
 With MindsDB, you can deploy, serve, and fine-tune models in real-time, utilizing data from databases, vector stores, or applications, to build AI-powered apps - using universal tools developers already know.
 
